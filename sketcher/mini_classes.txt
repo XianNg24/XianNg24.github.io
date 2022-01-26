@@ -16,7 +16,6 @@ basket
 basketball
 bat
 bathtub
-beach
 bear
 beard
 bed
